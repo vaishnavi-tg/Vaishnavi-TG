@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnavi-tg](https://github.com/vaishnavi-tg)
 
-- 📫 How to reach me **https://www.linkedin.com/in/vaishnavi-tg-57b72b250/**
+- 📫 How to reach me **vaishnavitg2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
