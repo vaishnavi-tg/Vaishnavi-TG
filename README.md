@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-tg" alt="vaishnavi-tg" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning projects**
+- 🌱 I’m currently learning **Machine Learning **
 
 - 👯 I’m looking to collaborate on **Projects on Machine Learning**
 
