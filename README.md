@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi TG</h1>
-<h3 align="center">AI ML and Datascience</h3>
+<h3 align="center">Machine Learning| Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-tg&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-tg" /> </p>
 
